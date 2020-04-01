@@ -1,7 +1,7 @@
 /* Stack */
 
 /*
-Methodoligy: LIFO
+Methodoligy: LIFO or FILO
 Functions:
  - stack.push
  - stack.pop
